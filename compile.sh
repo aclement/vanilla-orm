@@ -25,7 +25,7 @@ native-image \
 # -DremoveUnusedAutoconfig=true \
 mv orm ../../..
 
-printf "\n\nCompiled app (demo)\n"
+printf "\n\nCompiled app (orm)\n"
 cd ../../..
 time ./orm
 
